@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=girishjeswani&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/girishjeswani?label=Followers&style=for-the-badge&color=2F81F7" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=girish-j04&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/girish-j04?label=Followers&style=for-the-badge&color=2F81F7" alt="Followers" />
 </div>
 
 ---
@@ -135,16 +135,16 @@ Achieved **82% accuracy** for wildfire risk assessment with NASA FIRMS satellite
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=girishjeswani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishjeswani&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=girish-j04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girish-j04&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girishjeswani&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girish-j04&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girishjeswani&theme=tokyo-night&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girish-j04&theme=tokyo-night&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -152,7 +152,7 @@ Achieved **82% accuracy** for wildfire risk assessment with NASA FIRMS satellite
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=girishjeswani&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=girish-j04&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ### 🎯 Key Highlights
@@ -217,6 +217,6 @@ I'm always excited to discuss AI research, innovative projects, or collaborate o
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-*⭐️ From [girishjeswani](https://github.com/girishjeswani) - Thanks for visiting! Feel free to star ⭐ some repositories if you find them interesting!*
+*⭐️ From [girish-j04](https://github.com/girish-j04) - Thanks for visiting! Feel free to star ⭐ some repositories if you find them interesting!*
 
 </div>
