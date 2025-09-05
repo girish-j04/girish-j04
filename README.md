@@ -175,26 +175,9 @@ Achieved **82% accuracy** for wildfire risk assessment with NASA FIRMS satellite
 🌱 Learning: Advanced ML architectures and distributed systems
 ```
 
----
-
-## 🎨 Fun Zone
-
-<div align="center">
-
-```
-     ╭─────────────────────────╮
-     │  🤖 "Turning repos into │
-     │    intelligent agents   │
-     │    one commit at a      │
-     │       time!" 💡         │
-     ╰─────────────────────────╯
-            │
-        ╭───▼───╮
-        │ Girish │
-        ╰───────╯
 ```
 
-**When I'm not coding:** Exploring AI research papers 📚, stargazing in Colorado 🌌, mentoring fellow developers 👥, and thinking about how AI can make the world better 🌍
+**When I'm not coding:** Watching movies and probably sleeping
 
 </div>
 
@@ -211,7 +194,7 @@ I'm always excited to discuss AI research, innovative projects, or collaborate o
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girish.jeswani@colorado.edu)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/girishjeswani)
 
-### 💭 *"The best way to predict the future is to build it with AI"* 🚀
+### 💭 *"How you do anything is how you do everything"* 
 
 ---
 
