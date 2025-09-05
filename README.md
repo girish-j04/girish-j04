@@ -175,7 +175,6 @@ Achieved **82% accuracy** for wildfire risk assessment with NASA FIRMS satellite
 🌱 Learning: Advanced ML architectures and distributed systems
 ```
 
-```
 
 **When I'm not coding:** Watching movies and probably sleeping
 
